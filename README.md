@@ -8,7 +8,7 @@ Copiar los archivos a la ruta:
 
 Otra forma de instalacion es ejecutar el push:
 
-'''
+```sh
 ./push.sh
-'''
+```
  
