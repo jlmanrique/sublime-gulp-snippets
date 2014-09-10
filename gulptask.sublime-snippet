@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+gulp.task('$1',function(cb){
+	
+});
+]]></content>
+	<!-- Optional: gulp task -->
+	<!-- <tabTrigger>gulptask</tabTrigger> -->
+	<!-- Optional: only in js files -->
+	<!-- <scope>source.js</scope> -->
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+var gulp = require('gulp')
+
+gulp.task('$1',function(cb){
+	
+});
+]]></content>
+	<!-- Optional: Loads the initial gulp configuration  -->
+	<!-- <tabTrigger>gulp</tabTrigger> -->
+	<!-- Optional: Only for javascript files -->
+	<!-- <scope>source.js</scope> -->
+</snippet>
